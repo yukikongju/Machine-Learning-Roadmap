@@ -37,10 +37,74 @@ Machine learning models can be separated in 5 categories: supervised learning, u
 
 ## UNSUPERVISED LEARNING
 
+For regression:
+- linear regression
+
+For classification:
+- logistic regression
+- naives bayes classification
+- LDA
+
+For Clustering:
+- Centroid Clustering: K-means
+- Hierarchical clustering: Heatmap and dendogram
+- Density clustering:
+- Probability clustering:
+
+For dimension reduction:
+- PCA
+- t-sne
+- mds and pcoas
+- svm
+
+### REGULARIZATION
+- Ridge regression
+- LASSO
+- Elastic Net
+
+### ENSEMBLE
+
+#### BAGGING 
+- decision trees and random forest
+
+#### BOOSTING
+- gradient descent
+- adaboost
+
+#### STACKING
+
+
 ## NEURAL NETWORK
+- Deep learning
+- Convolutional neural network
+- Reccurent neural network
+- Autoencoders
+- Generative adversial network
 
 ## REINFORCEMENT LEARNING
 
 ## EVOLUTIONARY COMPUTATION
 
 - Genetic algorithm
+
+# APPLICATION
+
+## DATA ANALYSIS
+
+## TIME-SERIES
+
+## BUSINESS INTELLIGENCE
+
+## SENTIMENT ANALYSIS
+
+## COMPUTER VISION
+
+## QUANT
+
+## NATURAL LANGUAGE PROCESSING
+
+## GAME THEORY
+
+## FANTASY SPORT AND ONLINE BETTING
+
+## SURVIVAL ANYSIS
