@@ -32,3 +32,15 @@ Finally, once we are familiar with different types of model, we can learn how to
 # Models
 
 Machine learning models can be separated in 5 categories: supervised learning, unsupervised learning, neural networks, reinforcement learning and evolutionary comptuation. Each of these algorithm can be used to PREDICT, CLUSTER or CLASSIFY. Some are used specifically for DIMENSIONNALITY REDUCTION.
+
+## SUPERVISED LEARNING
+
+## UNSUPERVISED LEARNING
+
+## NEURAL NETWORK
+
+## REINFORCEMENT LEARNING
+
+## EVOLUTIONARY COMPUTATION
+
+- Genetic algorithm
