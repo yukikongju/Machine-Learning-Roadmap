@@ -21,15 +21,19 @@ Not only do we have to consider different types of algorithms, but we have to co
 
 # How to learn
 
-Machine learning can be a daunting subject to learn, but with the right mindset, we can get the hang of it. 
+Machine learning can be a daunting subject to learn, but with the right mindset and strategy, we can get the hang of it. We really want to learn the concept before writting code.  
 
-The fisrt thing to learn is basic maths: calculus, linear algebra. I assume you are familiar with that. Otherwise, "Mathematics for Machine Learning" by Marc Peter Deisenroth is a great place to start: https://mml-book.github.io/book/mml-book.pdf
+The first thing to learn is basic maths: calculus, linear algebra. It's not primordial to know all the nitty-gritty details, but we want to have a good intuition on how the maths works. I assume you are familiar with that, but if you need a reminder, "Mathematics for Machine Learning" by Marc Peter Deisenroth is a great place to start: https://mml-book.github.io/book/mml-book.pdf
 
-The second thing to learn is the algorithms. In the machine learning lingo, we refer to these algorithms as "models". Remember, our goal here is to assess the algorithm accuracy and speed by learning how it works.
+The second thing to learn is data manipulation. We want to be able to scrape data, import/export data, reformat table and manipulate strings. Two good languages for data science would be Python and R. Both do the same stuffs, but each they have their own advantages, so it might be a good idea to be familiar with both.
+
+The third thing to learn is the algorithms. In the machine learning lingo, we refer to these algorithms as "models". Remember, our goal here is to assess the algorithm accuracy and speed by learning how it works.
 
 Finally, once we are familiar with different types of model, we can learn how to apply them in real world problem. In this section, we want to understand the steps to solve that problem.
 
-# Models
+# Part 1: Data manipulation
+
+# Part 2: Models
 
 Machine learning models can be separated in 5 categories: supervised learning, unsupervised learning, neural networks, reinforcement learning and evolutionary comptuation. Each of these algorithm can be used to PREDICT, CLUSTER or CLASSIFY. Some are used specifically for DIMENSIONNALITY REDUCTION.
 
@@ -87,7 +91,7 @@ For dimension reduction:
 
 - Genetic algorithm
 
-# APPLICATION
+# Part 3: APPLICATION
 
 ## DATA ANALYSIS
 
