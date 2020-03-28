@@ -37,6 +37,8 @@ Finally, once we are familiar with different types of model, we can learn how to
 
 Machine learning models can be separated in 5 categories: supervised learning, unsupervised learning, neural networks, reinforcement learning and evolutionary comptuation. Each of these algorithm can be used to PREDICT, CLUSTER or CLASSIFY. Some are used specifically for DIMENSIONNALITY REDUCTION.
 
+I suggest to understand what the model do: is it used for prediction, for classification or for clustering. Then, you want to understand how it works: how does the model transform inputs into outputs and how do we train/optimize the model. Having a good understanding of the algorithm can provide us with a good sense of its strength and its limitation regarding its accuracy and its speed. We want to understand the maths behind the algorithm before jumping into the code. 
+
 ## SUPERVISED LEARNING
 
 ## UNSUPERVISED LEARNING
@@ -79,6 +81,9 @@ For dimension reduction:
 
 
 ## NEURAL NETWORK
+
+Introduction to Deep learning by MIT: http://introtodeeplearning.com/ 
+
 - Deep learning
 - Convolutional neural network
 - Reccurent neural network
