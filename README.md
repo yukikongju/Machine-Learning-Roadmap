@@ -31,7 +31,38 @@ The third thing to learn is the algorithms. In the machine learning lingo, we re
 
 Finally, once we are familiar with different types of model, we can learn how to apply them in real world problem. In this section, we want to understand the steps to solve that problem.
 
-# Part 1: Data manipulation
+# Part 0: Mindset
+
+
+# Part 1: Data Fundamentals
+
+1. Gathering Data
+
+Python - Beautiful Soup:
+R - Rvest: https://www.youtube.com/watch?v=4IYfYx4yoAI&t=7s
+R- Rvest (for tables) by R4DS: https://www.youtube.com/watch?v=0mvlZhYk44E&t=908s
+
+2. Cleaning Data
+
+Manipulate Strings:
+Python - :
+R - stringr:
+
+3. Data manipulation
+
+Manipulate Arrays:
+Python - Numpy:
+R - Purrr:
+
+Manipulate DataFrame:
+Python - Pandas: 
+R - dplyr: https://www.youtube.com/watch?v=jOd65mR1zfw&list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk
+
+4. Plot Data
+
+Python - Matplotlib:
+R - ggplot2:
+R - plotly:
 
 # Part 2: Models
 
