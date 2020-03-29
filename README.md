@@ -121,7 +121,9 @@ Introduction to Deep learning by MIT: http://introtodeeplearning.com/
 - Autoencoders
 - Generative adversial network
 
+Introduction to Neural Network Series by Giant Neural Network: https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So
 Creating neural networks with TensorFlow Tutorial by TechWithTim: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=14815s
+
 
 ## REINFORCEMENT LEARNING
 
