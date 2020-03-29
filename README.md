@@ -137,6 +137,9 @@ Creating genetic algorithm with js by The Coding Train: https://www.youtube.com/
 
 ## DATA ANALYSIS
 
+Good Machine Learning Practices by Google: https://developers.google.com/machine-learning/guides
+Data Analysis Steps by Google: https://developers.google.com/machine-learning/crash-course
+Data analysis life cycle by Decisive Data: https://www.youtube.com/watch?v=eYVl2ckF-nQ&t=180s
 Descriptive analytics by UC Business: http://uc-r.github.io/descriptive
 Predictive anlytics by UC Business: http://uc-r.github.io/predictive
 Prescriptive analytics:
