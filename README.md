@@ -90,15 +90,25 @@ Introduction to Deep learning by MIT: http://introtodeeplearning.com/
 - Autoencoders
 - Generative adversial network
 
+Creating neural networks with TensorFlow Tutorial by TechWithTim: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=14815s
+
 ## REINFORCEMENT LEARNING
+
+Video Series on Reinforcement Learning by David Silver from DeepMind: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 ## EVOLUTIONARY COMPUTATION
 
-- Genetic algorithm
+- Genetic algorithm explained by The Coding Train: https://www.youtube.com/watch?v=RxTfc4JLYKs&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV&index=2
+
+Creating genetic algorithm with js by The Coding Train: https://www.youtube.com/watch?v=-jv3CgDN9sc&list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV&index=4
 
 # Part 3: APPLICATION
 
 ## DATA ANALYSIS
+
+Descriptive analytics by UC Business: http://uc-r.github.io/descriptive
+Predictive anlytics by UC Business: http://uc-r.github.io/predictive
+Prescriptive analytics:
 
 ## TIME-SERIES
 
