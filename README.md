@@ -161,3 +161,21 @@ Prescriptive analytics:
 ## FANTASY SPORT AND ONLINE BETTING
 
 ## SURVIVAL ANYSIS
+
+# Ressources
+
+Youtube Channels:
+
+- StatQuest with Josh Starmer
+- Roger Peng
+- TechWithTim
+- Keith Galli
+- Quantopian
+- Decisive Data
+- Luis Serano
+- Primer
+- Allan Kei
+- Simcha Pollack
+
+
+
