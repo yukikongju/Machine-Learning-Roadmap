@@ -172,7 +172,7 @@ Prescriptive analytics:
 
 ## SURVIVAL ANYSIS
 
-# Ressources
+# Online Ressources
 
 Youtube Channels:
 
@@ -187,5 +187,19 @@ Youtube Channels:
 - Allan Kei
 - Simcha Pollack
 
+# HANDBOOK
 
+Theorical Modelling:
+- Data Mining, inference and Prediction by Trevor Hastie: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+- Deep Learning Textbook by Yoshua Bengio: http://www.deeplearningbook.org/
+- Bayesian Reasonning and Machine Learning by David Barber: http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/270212.pdf
+
+Inferencial Statistics
+- Introduction to the Science of Statistics by Joseph Watkins: https://www.math.arizona.edu/~jwatkins/statbook.pdf
+
+Handle large data theoritically:
+- Data Mining and Map Reduce from Stanford: http://infolab.stanford.edu/~ullman/mmds/book.pdf
+
+Algorithms:
+- Algorithms by Jeff Erickson:http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf
 
