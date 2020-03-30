@@ -33,6 +33,8 @@ Finally, once we are familiar with different types of model, we can learn how to
 
 # Part 0: Mindset
 
+Being able to read paper and implement maths equations.
+
 # Part 1: Data Fundamentals
 
 1. Gathering Data
