@@ -33,7 +33,6 @@ Finally, once we are familiar with different types of model, we can learn how to
 
 # Part 0: Mindset
 
-
 # Part 1: Data Fundamentals
 
 1. Gathering Data
@@ -140,6 +139,8 @@ Creating genetic algorithm with js by The Coding Train: https://www.youtube.com/
 # Part 3: APPLICATION
 
 ## DATA ANALYSIS
+
+Data analysis overview by freeCodeCamp: https://www.youtube.com/watch?v=ua-CiDNNj30
 
 Good Machine Learning Practices by Google: https://developers.google.com/machine-learning/guides
 Data Analysis Steps by Google: https://developers.google.com/machine-learning/crash-course
