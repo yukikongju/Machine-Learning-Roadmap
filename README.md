@@ -129,7 +129,9 @@ Creating neural networks with TensorFlow Tutorial by TechWithTim: https://www.yo
 
 ## REINFORCEMENT LEARNING
 
-Video Series on Reinforcement Learning by David Silver from DeepMind: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+Video Series on Reinforcement Learning by David Silver from DeepMind (Theoric): https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+
+Reinforcement Learning with PyTorch by Nachine Learning with Phil on freeCodeCamp: https://www.youtube.com/watch?v=ELE2_Mftqoc
 
 ## EVOLUTIONARY COMPUTATION
 
