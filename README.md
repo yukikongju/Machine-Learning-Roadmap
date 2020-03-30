@@ -128,12 +128,13 @@ Introduction to Neural Network Series by Giant Neural Network: https://www.youtu
 
 Creating neural networks with TensorFlow Tutorial by TechWithTim: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=14815s
 
-
 ## REINFORCEMENT LEARNING
 
 Video Series on Reinforcement Learning by David Silver from DeepMind (Theoric): https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 Reinforcement Learning with PyTorch by Nachine Learning with Phil on freeCodeCamp: https://www.youtube.com/watch?v=ELE2_Mftqoc
+
+Deep Q Learning Network and GAN with Keras by LiveSessions: https://www.youtube.com/watch?v=OYhFoMySoVs&t=3071s
 
 ## EVOLUTIONARY COMPUTATION
 
