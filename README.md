@@ -113,6 +113,7 @@ For dimension reduction:
 ## NEURAL NETWORK
 
 Deep Learning Crash Course by ACMSIGGRAPH: https://www.youtube.com/watch?v=r0Ogt-q956I
+Deep learning overview by Brandon Rohrer on freeCodeCamp: https://www.youtube.com/watch?v=dPWYUELwIdM
 Introduction to Deep learning by MIT: http://introtodeeplearning.com/ 
 
 - Deep learning
