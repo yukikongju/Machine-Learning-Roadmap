@@ -27,9 +27,9 @@ The first thing to learn is basic maths: calculus, linear algebra. It's not prim
 
 The second thing to learn is data manipulation. We want to be able to scrape data, import/export data, reformat table and manipulate strings. Two good languages for data science would be Python and R. Both do the same stuffs, but each they have their own advantages, so it might be a good idea to be familiar with both.
 
-The third thing to learn is the algorithms. In the machine learning lingo, we refer to these algorithms as "models". Remember, our goal here is to assess the algorithm accuracy and speed by learning how it works.
+The third thing to learn is the algorithms. In the machine learning lingo, we refer to these algorithms as "models". Remember, our goal here is to assess the algorithm accuracy and speed by learning how it works ie how do we TRAIN it and how do we TEST it. Then, try to code it by yourself.
 
-Finally, once we are familiar with different types of model, we can learn how to apply them in real world problem. In this section, we want to understand the steps to solve that problem.
+Finally, once we are familiar with different types of model, we can learn how to apply them in real world problem. Different problems have different needs. 
 
 # Part 0: Mindset
 
@@ -67,13 +67,20 @@ R - plotly:
 
 # Part 2: Models
 
-Machine learning models can be separated in 5 categories: supervised learning, unsupervised learning, neural networks, reinforcement learning and evolutionary comptuation. Each of these algorithm can be used to PREDICT, CLUSTER or CLASSIFY. Some are used specifically for DIMENSIONNALITY REDUCTION.
+Machine learning models can be separated in 5 categories: supervised learning, unsupervised learning, neural networks, reinforcement learning and evolutionary comptuation. Each of these algorithm can be used to PREDICT, CLUSTER or CLASSIFY. Some of them are used specifically for DIMENSIONNALITY REDUCTION. These algorithms can also be SUPERVISED (the model knows the label when it test its accuracy) or UNSUPERVISED (the model doesn't know the label of the data). Understanding a model really boils down to TESTING (how the model transform input into ouputs) and TRAINING (how the model finds the optimal way to transform the inputs into outputs). 
 
-I suggest to understand what the model do: is it used for prediction, for classification or for clustering. Then, you want to understand how it works: how does the model transform inputs into outputs and how do we train/optimize the model. Having a good understanding of the algorithm can provide us with a good sense of its strength and its limitation regarding its accuracy and its speed. We want to understand the maths behind the algorithm before jumping into the code. 
+The first thing to understand anout an algorithm is what it does. Is it used for prediction, for classification or for clustering? 
+Knowing what the model does will allow you to position it to similar algorithms and to understand why it does what it does. You also want to know in which families the model is in. Models in similar families usually works the same way, so if you know how one works, it will greatly help you to understand its cousin.
 
-## SUPERVISED LEARNING
+The second thing to learn about a new algorithm is how it works. How does the model transform inputs into outputs? Here, you want to describe the transformation made by the model. A trick I like to use is to imagine myself teaching the model to a 5 years old. Forget the fancy words and the fancy maths equation, you just want to explain the process in the simplest terms.
 
-## UNSUPERVISED LEARNING
+The last thing to understand about a model is how it is being trained/optimized? Does it require supervised or unsupervised learning? How can we reduce the error? How can we improve its accuracy and speed? Is there a tradeoff between the bias, variance and speed? If so, what parameter can we tweak to change their values? Having a good understanding of the algorithm can provide us with a good sense of its strength and its limitation.
+
+We really want to understand the maths behind the algorithm before jumping straight into the code. Otherwise, we only end up copying what the tutorial does without learning anything. Alternatively, we don't want to learn all algorithms in one go before jumping into the code. That's something I had to learn the hard way. I forgot everything that I had seen and I had to relearn everything. Now, I found a better technique: learn one algorithm at a time and then make a quick project about it. When implementing the model, try to remember the steps taken to reach the end goal. If you are stuck and don't know how to write something, google it. But DO NOT FOLLOW A TUTORIAL. At least, not right away. You really want to get stuck and search how to do stuff by yourself. It really helps for memory retention.
+
+Finally, I really want to emphasize that you don't need to learn all algorithm that exist, but it does help to understand the scope of your possibilities. Know what real life application could interest you and spend the most of time on the algorithms preminent in that field. For example, if you are into the application of AI in game development, maybe you should spend more time on reinforcement learning and neural network and less time on analytical stuffs. But again, I might be wrong...  
+
+## SUPERVISED LEARNING / UNSUPERVISED LEARNING
 
 For regression:
 - linear regression
