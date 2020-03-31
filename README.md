@@ -194,6 +194,7 @@ Youtube Channels:
 - Primer
 - Allan Kei
 - Simcha Pollack
+- Quantopian
 
 # HANDBOOK
 
