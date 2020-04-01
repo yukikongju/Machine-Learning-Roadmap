@@ -23,7 +23,7 @@ Not only do we have to consider different types of algorithms, but we have to co
 
 Machine learning can be a daunting subject to learn, but with the right mindset and strategy, we can get the hang of it. We really want to learn the concept before writting code.  
 
-The first thing to learn is basic maths: calculus, linear algebra. It's not primordial to know all the nitty-gritty details, but we want to have a good intuition on how the maths works. I assume you are familiar with that, but if you need a reminder, "Mathematics for Machine Learning" by Marc Peter Deisenroth is a great place to start: https://mml-book.github.io/book/mml-book.pdf
+The first thing to learn is basic maths: calculus, linear algebra and some statistics. It's not primordial to know all the nitty-gritty details, but we want to have a good intuition on how the maths works. I assume you are familiar with that, but if you need a reminder, "Mathematics for Machine Learning" by Marc Peter Deisenroth is a great place to start: https://mml-book.github.io/book/mml-book.pdf
 
 The second thing to learn is data manipulation. We want to be able to scrape data, import/export data, reformat table and manipulate strings. Two good languages for data science would be Python and R. Both do the same stuffs, but each they have their own advantages, so it might be a good idea to be familiar with both.
 
@@ -31,36 +31,57 @@ The third thing to learn is the algorithms. In the machine learning lingo, we re
 
 Finally, once we are familiar with different types of model, we can learn how to apply them in real world problem. Different problems have different needs. 
 
-# Part 0: Mindset
+# Mindset
 
-Being able to read paper and implement maths equations.
+# Part 0: Maths
+
+As mentionned earlier, the first step to learn machine learning is to understand specific concepts of calculus, linear algebra and statistics.
+
+For calculus:
+- Integrals: Calculate the area under the curve for probabilities, ROC and AUC
+- derivatives: Gradient descent in Neural Networks
+- Partial derivative and Chain Rule: Backpropagation in Neural Networks
+
+For linear algebra:
+- matrices, vectors: dot product, matrix multiplication, transpose, identity matrix for weighted sum in Neural Network
+- Eighten values: PCA, SVM, LDA, ...
+- Hyperplanes and distances: k-means, SVM
+
+For statistics:
+- Probability and distribution: exploratory data analysis
+- Sampling: Data wrangling
+- Hypothesis testing: data analysis
+- Bayes theorem: naive bayes classification 
+
+The most important part is to understand calculus and linear algebra concept before learning more advanced model, as it will greatly help your understanding. If you are not really interested in data analysis and are more excited about computer vision and game application, you might want to skip the statistical part.
+
+When learning more advanced deep learning strategies, there might not be tutorial to guide you through your solutions. Therefore, a great skillset that you can develop is to understand how to read maths from research paper and implement those concepts in your model.
 
 # Part 1: Data Fundamentals
 
-1. Gathering Data
+Once you learned some basic maths, you want to get familiar with the machine learning process. You'll have to learn how to gather some data from the internet, to handle missing values or duplicates, to change string format, to manipulate the dataframe and to visualize data, starting by choosing a programming language. The two most popular are Python and R. At the beginning, choose one of the languages. From experience, I found that R syntax for data wrangling is easier to learn than with Python, but Python offers more flexibility, as you can use your code for something else than ML. Get familiar with all steps of the process. You don't need to master them all yet, you just need to be familiar enough to format your data the right way to make your models. You can always come back and refine those skills later.
+
+Python and R work differently than other programming languages. In java, everything you need to code is already embeded in the language. In Python and R, however, everything has to be imported from librairies. Each librairy emphasizes mostly on one part of the ML process. Therefore, I suggest that you tackle one step of the ML process at a time by learning its associated library. 
+
+1. Data Scrapping from the Web
 
 Python - Beautiful Soup:
 R - Rvest: https://www.youtube.com/watch?v=4IYfYx4yoAI&t=7s
 R- Rvest (for tables) by R4DS: https://www.youtube.com/watch?v=0mvlZhYk44E&t=908s
 
-2. Cleaning Data
-
-Manipulate Strings:
+2. Manipulate Strings:
 Python - :
 R - stringr:
 
-3. Data manipulation
-
-Manipulate Arrays:
+3. Manipulate Arrays:
 Python - Numpy:
 R - Purrr:
 
-Manipulate DataFrame:
+4. Manipulate DataFrame:
 Python - Pandas: 
 R - dplyr: https://www.youtube.com/watch?v=jOd65mR1zfw&list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk
 
-4. Plot Data
-
+5. Plot Data
 Python - Matplotlib:
 R - ggplot2:
 R - plotly:
@@ -115,6 +136,7 @@ For dimension reduction:
 #### BOOSTING
 - gradient descent
 - adaboost
+- xgboost
 
 #### STACKING
 
@@ -180,6 +202,21 @@ Prescriptive analytics:
 
 ## SURVIVAL ANYSIS
 
+# Part 5: Where to go from there
+
+Once you have explored various possibilities that one can do with machine learning, it's now time to think about how you can be a better data scientist and bring value to your team. From there, you have two choices: to specialize or to generalize. If you decide to specialize, your skills will surelly be higly in demands, since not a lot of people can do what you do. However, that means that your skillset doesn't generalize and you are kind of stucked if the skill you acquire gets outdated. Alternatively, if you decide to generalize, you will have a more broad knowledge and have more tools to adapt in case that the market needs change, but more people can do what you do. Ultimately, your choice will be based on what you want. If you want to go in research, then you might want to specialize. On the other hand, if you want to become team manager someday, then you might want to generalize.
+
+There are still other stuffs that you can learn to be more efficient. You can learn ...
+
+- DevOps: Automation and code refraction to optimize deployment frequency, time to restore services, lead time for changes, and handle failure rates.
+- Data Base: connect your data to the cloud so that other can access it
+- Low level languages (C, Pascal, Assembly): write new librairies to implement task more easily
+- UI and design: deploy your plots and analysis on an interactive dashboard 
+- Data structures and algorithms:
+- Terminal Command:
+- Security:
+
+
 # Online Ressources
 
 Youtube Channels:
@@ -195,6 +232,12 @@ Youtube Channels:
 - Allan Kei
 - Simcha Pollack
 - Quantopian
+
+Github Projects:
+
+- Deep Learning implementation by anujdutt9: https://github.com/anujdutt9/DeepLearning
+- Feature Selection implementation by anujdutt9: https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning
+- Rockets with genetic algorithm by the Coding Train: https://github.com/nature-of-code/noc-examples-processing/tree/master/chp09_ga/NOC_9_03_SmartRockets
 
 # HANDBOOK
 
