@@ -13,7 +13,7 @@ Not only do we have to consider different types of algorithms, but we have to co
 - BUSINESS INTELLIGENCE: report business operation, risk management, supply chain, marketing campain, customer retention
 - SENTIMENT ANALYSIS: associating meaning to a word or group of word
 - COMPUTER VISION: extract information from digital images or videos to reproduce human vision.
-- QUANT: forecast future risks, predict macroenconomic trends, predict stock market
+- QUANTITATIVE FINANCE: forecast future risks, predict macroenconomic trends, predict stock market
 - NATURAL LANGUAGE PROCESSING: How a computer understand what we say (speech recognition) and respond back to us (vocal assistant)
 - GAME THEORY: decision making in games
 - FANTASY SPORT and ONLINE BETTING: assemble virtual team to win money
@@ -239,12 +239,19 @@ Github Projects:
 - Feature Selection implementation by anujdutt9: https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning
 - Rockets with genetic algorithm by the Coding Train: https://github.com/nature-of-code/noc-examples-processing/tree/master/chp09_ga/NOC_9_03_SmartRockets
 
+Github Tutorial:
+
+- Deep Learning with Python by Francois Chollet: https://github.com/fchollet/deep-learning-with-python-notebooks
+
 # HANDBOOK
 
 Theorical Modelling:
-- Data Mining, inference and Prediction by Trevor Hastie: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+- The Elements od Statistical Learning by Trevor Hastie: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 - Deep Learning Textbook by Yoshua Bengio: http://www.deeplearningbook.org/
 - Bayesian Reasonning and Machine Learning by David Barber: http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/270212.pdf
+
+Practical Modelling:
+- Hands on Machine Learning with Scikit and TensorFlow by Aurelien Geron: https://www.lpsm.paris/pageperso/has/source/Hand-on-ML.pdf
 
 Inferencial Statistics
 - Introduction to the Science of Statistics by Joseph Watkins: https://www.math.arizona.edu/~jwatkins/statbook.pdf
