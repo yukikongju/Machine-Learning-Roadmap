@@ -119,10 +119,10 @@ Finally, I really want to emphasize that you don't need to learn all algorithm t
 ## SUPERVISED LEARNING / UNSUPERVISED LEARNING
 
 For regression:
-- linear regression
+- linear regression, polynomial regression
 
 For classification:
-- logistic regression
+- logistic regression, softmax regression
 - naives bayes classification
 - LDA
 
