@@ -57,6 +57,21 @@ The most important part is to understand calculus and linear algebra concept bef
 
 When learning more advanced deep learning strategies, there might not be tutorial to guide you through your solutions. Therefore, a great skillset that you can develop is to understand how to read maths from research paper and implement those concepts in your model.
 
+# Part 1: Machine Learning Fundamentals
+
+### What does Machine learning do?
+
+As mentionned earlier, machine learning can be defined as a way to give computer the ability to learn without being explicitly being told what to do. It can be used for prediction, for classification, for clustering, for dimension reduction, for anomaly detection and for association learning. There are lots of algorithms and each one of them are implemented differently. We can categorize each of them into 5 categories: supervised learning, unsupervised learning, neural networks, reinforcement learning and evolutionary comptuation. 
+
+These algorithms can also be classified wether they can learn incrementally or not. If they can, they qualify as OLINE LEARNING. If not, they are qualified as BATCH LEAARNING.
+
+They can also be classified on the way they generalize their learning. Some are INSTANCE-BASED and other are MODEL-BASED. Instance based model learn by simply memorizing everything they encounter, whereas model base method want to generalize the pattern they find to apply it on new instances.
+
+### What makes a good machine learning algorithms?
+
+# Part 2: Machine Learning Process
+
+
 # Part 1: Data Fundamentals
 
 Once you learned some basic maths, you want to get familiar with the machine learning process. You'll have to learn how to gather some data from the internet, to handle missing values or duplicates, to change string format, to manipulate the dataframe and to visualize data, starting by choosing a programming language. The two most popular are Python and R. At the beginning, choose one of the languages. From experience, I found that R syntax for data wrangling is easier to learn than with Python, but Python offers more flexibility, as you can use your code for something else than ML. Get familiar with all steps of the process. You don't need to master them all yet, you just need to be familiar enough to format your data the right way to make your models. You can always come back and refine those skills later.
