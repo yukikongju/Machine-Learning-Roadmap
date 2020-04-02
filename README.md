@@ -116,6 +116,8 @@ We really want to understand the maths behind the algorithm before jumping strai
 
 Finally, I really want to emphasize that you don't need to learn all algorithm that exist, but it does help to understand the scope of your possibilities. Know what real life application could interest you and spend the most of time on the algorithms preminent in that field. For example, if you are into the application of AI in game development, maybe you should spend more time on reinforcement learning and neural network and less time on analytical stuffs. But again, I might be wrong...  
 
+On Python, you want to get comfortable using SCIKIT-LEARN for regular model and TENSORFLOR/PYTORCH for neutral networks algorithms.
+
 ## SUPERVISED LEARNING / UNSUPERVISED LEARNING
 
 For regression:
