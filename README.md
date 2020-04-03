@@ -260,6 +260,10 @@ Github Tutorial:
 
 - Deep Learning with Python by Francois Chollet: https://github.com/fchollet/deep-learning-with-python-notebooks
 
+Blogs:
+
+- comp.ai.neuralnet : http://www.faqs.org/faqs/ai-faq/neural-nets/part1/preamble.html
+
 # HANDBOOK
 
 Theorical Modelling:
