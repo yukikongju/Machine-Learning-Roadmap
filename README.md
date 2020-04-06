@@ -205,6 +205,8 @@ Prescriptive analytics:
 
 ## BUSINESS INTELLIGENCE
 
+Engineering statistics handbook: https://www.itl.nist.gov/div898/handbook/toolaids/pff/index.htm
+
 ## SENTIMENT ANALYSIS
 
 ## COMPUTER VISION
