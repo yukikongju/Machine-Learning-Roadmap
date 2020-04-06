@@ -72,7 +72,7 @@ They can also be classified on the way they generalize their learning. Some are 
 # Part 2: Machine Learning Process
 
 
-# Part 1: Data Fundamentals
+# Part 3: Data Fundamentals
 
 Once you learned some basic maths, you want to get familiar with the machine learning process. You'll have to learn how to gather some data from the internet, to handle missing values or duplicates, to change string format, to manipulate the dataframe and to visualize data, starting by choosing a programming language. The two most popular are Python and R. At the beginning, choose one of the languages. From experience, I found that R syntax for data wrangling is easier to learn than with Python, but Python offers more flexibility, as you can use your code for something else than ML. Get familiar with all steps of the process. You don't need to master them all yet, you just need to be familiar enough to format your data the right way to make your models. You can always come back and refine those skills later.
 
@@ -101,7 +101,7 @@ Python - Matplotlib:
 R - ggplot2:
 R - plotly:
 
-# Part 2: Models
+# Part 4: Models
 
 Machine learning models can be separated in 5 categories: supervised learning, unsupervised learning, neural networks, reinforcement learning and evolutionary comptuation. Each of these algorithm can be used to PREDICT, CLUSTER or CLASSIFY. Some of them are used specifically for DIMENSIONNALITY REDUCTION. These algorithms can also be SUPERVISED (the model knows the label when it test its accuracy) or UNSUPERVISED (the model doesn't know the label of the data). Understanding a model really boils down to TESTING (how the model transform input into ouputs) and TRAINING (how the model finds the optimal way to transform the inputs into outputs). 
 
