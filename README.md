@@ -205,7 +205,7 @@ Prescriptive analytics:
 
 ## BUSINESS INTELLIGENCE
 
-Engineering statistics handbook: https://www.itl.nist.gov/div898/handbook/toolaids/pff/index.htm
+Engineering statistics handbook: https://www.itl.nist.gov/div898/handbook/index.htm
 
 ## SENTIMENT ANALYSIS
 
@@ -284,4 +284,7 @@ Handle large data theoritically:
 
 Algorithms:
 - Algorithms by Jeff Erickson:http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf
+
+Math Functions:
+- NIST Digital Library: https://dlmf.nist.gov/
 
