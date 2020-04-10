@@ -203,6 +203,8 @@ Prescriptive analytics:
 
 ## TIME-SERIES
 
+Forecasting principles and practices by George Athanasopoulos: https://otexts.com/fpp2/
+
 ## BUSINESS INTELLIGENCE
 
 Engineering statistics handbook: https://www.itl.nist.gov/div898/handbook/index.htm
