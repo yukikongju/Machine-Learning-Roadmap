@@ -268,6 +268,8 @@ Blogs:
 
 - comp.ai.neuralnet : http://www.faqs.org/faqs/ai-faq/neural-nets/part1/preamble.html
 
+RaspberryPi: https://curriculum.raspberrypi.org/
+
 # HANDBOOK
 
 Theorical Modelling:
