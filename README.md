@@ -174,6 +174,8 @@ Introduction to Neural Network Series by Giant Neural Network: https://www.youtu
 
 Creating neural networks with TensorFlow Tutorial by TechWithTim: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=14815s
 
+Books that I recommend: Hand On Machine Learning by Aurelien Geron
+
 ## REINFORCEMENT LEARNING
 
 Video Series on Reinforcement Learning by David Silver from DeepMind (Theoric): https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
@@ -291,4 +293,9 @@ Algorithms:
 
 Math Functions:
 - NIST Digital Library: https://dlmf.nist.gov/
+
+# More 
+
+Bash command Tutorial by Kris Occhipinti: https://www.youtube.com/watch?v=QGvvJO5UIs4&list=PL2284887FAE36E6D8&index=1
+
 
