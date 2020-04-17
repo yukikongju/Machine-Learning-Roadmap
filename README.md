@@ -215,6 +215,8 @@ Engineering statistics handbook: https://www.itl.nist.gov/div898/handbook/index.
 
 ## COMPUTER VISION
 
+Stanford Computer vision course: https://cs231n.github.io/
+
 ## QUANTITATIVE FINANCE
 
 ## NATURAL LANGUAGE PROCESSING
