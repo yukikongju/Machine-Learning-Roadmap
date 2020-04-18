@@ -163,6 +163,7 @@ For dimension reduction:
 Deep Learning Crash Course by ACMSIGGRAPH: https://www.youtube.com/watch?v=r0Ogt-q956I
 Deep learning overview by Brandon Rohrer on freeCodeCamp: https://www.youtube.com/watch?v=dPWYUELwIdM
 Introduction to Deep learning by MIT: http://introtodeeplearning.com/ 
+Adam Geitgey blogpost: https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a
 
 - Deep learning
 - Convolutional neural network
