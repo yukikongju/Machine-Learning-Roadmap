@@ -175,6 +175,8 @@ Introduction to Neural Network Series by Giant Neural Network: https://www.youtu
 
 Creating neural networks with TensorFlow Tutorial by TechWithTim: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=14815s
 
+Weights and biases Tutorial: https://www.wandb.com/tutorials 
+
 Books that I recommend: Hand On Machine Learning by Aurelien Geron
 
 ## REINFORCEMENT LEARNING
