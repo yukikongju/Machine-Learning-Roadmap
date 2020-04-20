@@ -253,6 +253,7 @@ Youtube Channels:
 - Roger Peng
 - TechWithTim
 - Keith Galli
+- Weights and Bias
 - Quantopian
 - Decisive Data
 - Luis Serano
