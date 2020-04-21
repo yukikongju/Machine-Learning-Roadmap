@@ -178,6 +178,7 @@ Introduction to Neural Network Series by Giant Neural Network: https://www.youtu
 Creating neural networks with TensorFlow Tutorial by TechWithTim: https://www.youtube.com/watch?v=tPYj3fFJGjk&t=14815s
 
 Weights and biases Tutorial: https://www.wandb.com/tutorials 
+Optimization blogpost: https://medium.com/datadriveninvestor/overview-of-different-optimizers-for-neural-networks-e0ed119440c3
 
 Books that I recommend: Hand On Machine Learning by Aurelien Geron
 
