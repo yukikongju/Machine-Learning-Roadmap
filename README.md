@@ -120,6 +120,8 @@ On Python, you want to get comfortable using SCIKIT-LEARN for regular model and 
 
 ## SUPERVISED LEARNING / UNSUPERVISED LEARNING
 
+Missing Link BlogPost: https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/
+
 For regression:
 - linear regression, polynomial regression
 
